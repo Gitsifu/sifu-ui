@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <date-picker></date-picker>
+    <sf-date-picker></sf-date-picker>
   </div>
 </template>
 
