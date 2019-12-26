@@ -1,4 +1,5 @@
-# sifu
+# sifu-ui
+> Vue ui组件库
 
 ## Project setup
 ```

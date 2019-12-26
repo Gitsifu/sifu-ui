@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: "datePicker",
+  name: "DatePicker",
   props: {},
   data() {
     return {};
