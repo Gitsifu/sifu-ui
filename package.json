@@ -7,7 +7,9 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "build-lib": "vue-cli-service build --target lib --name sifu-ui --dest lib packages/index.js"
+    "build-lib": "vue-cli-service build --target lib --name sifu-ui --dest lib packages/index.js",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "dependencies": {
     "core-js": "^3.4.3",
@@ -28,13 +30,6 @@
     "prettier": "^1.19.1",
     "sass-loader": "^8.0.0",
     "vue-template-compiler": "^2.6.10",
-    "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^6.1.0",
-    "gulp-cssmin": "^0.2.0",
-    "gulp-sass": "^4.0.2",
-    "cp-cli": "^2.0.0",
-    "gulplog": "^1.0.0",
-    "gulp-cli": "^2.2.0",
-    "glogg": "^1.0.2"
+    "vuepress": "^1.2.0"
   }
 }

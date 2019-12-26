@@ -1,8 +1,9 @@
 examples/
 packages/
 public/
-vue.config.js
-postcss.config.js
-babel.config.js
+vue.config.yml
+postcss.config.yml
+babel.config.yml
 *.map
 .idea
+docs

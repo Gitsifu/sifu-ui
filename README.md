@@ -1,6 +1,12 @@
 # sifu-ui
 > Vue ui组件库
 
+相关参考资料
+
+[https://vuepress.vuejs.org/zh/](https://vuepress.vuejs.org/zh/)
+
+[https://cli.vuejs.org/zh/guide/build-targets.html#%E5%BA%93](https://cli.vuejs.org/zh/guide/build-targets.html#%E5%BA%93)
+
 ## Project setup
 ```
 npm install
