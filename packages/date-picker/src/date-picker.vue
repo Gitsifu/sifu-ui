@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: "DatePicker",
+  name: "SfDatePicker",
   props: {},
   data() {
     return {};
@@ -15,4 +15,4 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style lang="scss" scoped></style>
